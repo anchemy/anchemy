@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arguemore
-- 👀 I’m interested in all things Design, Arts, and Literature.
-- 🌱 I’m currently learning Marketing and how to use Docker.
+- 👋 Hi, I’m @anchemy
+- 👀 I’m interested in Design, Spirituality, and Personal Development.
+- 🌱 I’m currently learning Digital Marketing and Front-end Development.
 - 💞️ I’m looking for mentorship and accountability buddies on my coding journey.
-- 📫 For things webdev, reach me on hello@arguemore.com.
+- 📫 You can reach me through email at hey@anche.my.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/673b2ff2f20970fd4899216d?variant=light)](https://roadmap.sh)
   
